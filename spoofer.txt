@@ -1,3 +1,0 @@
-staffbesting:Spoofer:${newKey}:${date}:${ip}
-staffbesting:Spoofer:${newKey}:${date}:${ip}
-staffbesting:Spoofer:${newKey}:${date}:${ip}
