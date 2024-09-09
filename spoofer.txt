@@ -1,0 +1,2 @@
+
+staffbesting:Spoofer:${newKey}:${date}:${ip}
