@@ -1,2 +1,2 @@
-
 staffbesting:Spoofer:${newKey}:${date}:${ip}
+staffbesting:Spoofer:LbIYF5R6dXYb:2024-09-09:78.185.229.171
