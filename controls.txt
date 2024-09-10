@@ -1,2 +1,2 @@
-Ultimate:78.185.229.172:Connected:10:Working
+Ultimate:78.185.229.172:Connected:10:Notworking
 Plus:78.185.229.172:Connected:10:Working
