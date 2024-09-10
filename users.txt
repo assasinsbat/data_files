@@ -1,3 +1,3 @@
 user1:password1:78.185.229.172:charlie123:895.00
-user2:password2:78.185.229.171:merhaba321:400.00
+user2:password2:78.185.229.171:merhaba321:390.00
 user3:password3:78.185.229.171:merhaba123:550.00
