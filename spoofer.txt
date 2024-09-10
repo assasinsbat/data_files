@@ -15,7 +15,7 @@ merhaba321:Spoofer:DzXpPiCSuScx:2024-09-10:46.1.252.122:non-used:2024-09-11
 merhaba321:Spoofer:DVdmBSk0K63d:2024-09-10:46.1.252.122:non-used:2024-09-11
 merhaba321:Spoofer:NTsIucQrhIB3:2024-09-10:46.1.252.122:non-used:2024-09-11
 merhaba123:Spoofer:ACnOF50PcPva:2024-09-10:78.185.229.171:non-used:2024-09-11
-merhaba123:Spoofer:r1Cnx8nDmgo4:2024-09-10:78.185.229.171:used:2024-10-10
+merhaba123:Spoofer:r1Cnx8nDmgo4:2024-09-10:78.185.229.171:non-used:2024-10-10
 merhaba123:Spoofer:jOWDPEBxB6Yx:2024-09-10:78.185.229.171:used:2024-10-10
 merhaba123:Spoofer:SonpfR0fdDxh:2024-09-10:78.185.229.171:non-used:2024-10-10
 merhaba123:Spoofer:cZZm44AB2xqk:2024-09-10:78.185.229.171:non-used:2024-09-11
