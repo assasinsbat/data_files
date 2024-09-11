@@ -7,9 +7,8 @@ merhaba123:Spoofer:lM1Wf3GdpkaH:2024-09-11:78.185.229.171:used:2024-09-12
 merhaba123:Spoofer:dETeLXg3vFIW:2024-09-11:78.185.229.171:used:2024-09-12
 charlie123:Spoofer:Ng7Bm3RRRo1Q:2024-09-11:46.1.252.122:non-used:2024-09-12
 charlie123:Spoofer:pnxkF3P0XPms:2024-09-11:46.1.252.122:non-used:2024-09-12
-charlie123:Spoofer:GNCbTGYOvYAs:2024-09-11:46.1.252.122:non-used:2024-09-12
-charlie123:Spoofer:aIyat0XRTmTr:2024-09-11:46.1.252.122:non-used:2024-09-12
-charlie123:Spoofer:TOLXTgtdkOrc:2024-09-11:46.1.252.122:non-used:2024-10-11
-charlie123:Spoofer:UrCrbdCHTzOp:2024-09-11:46.1.252.122:non-used:2024-10-11
-charlie123:Spoofer:tTsBHEuaDsIa:2024-09-11:46.1.252.122:non-used:2024-09-18
-charlie123:Spoofer:7p2KzzRWCIvz:2024-09-11:46.1.252.122:non-used:2024-09-12
+charlie123:Spoofer:GNCbTGYOvYAs:2024-09-11:46.1.252.122:used:2024-09-12
+charlie123:Spoofer:aIyat0XRTmTr:2024-09-11:46.1.252.122:used:2024-09-12
+charlie123:Spoofer:TOLXTgtdkOrc:2024-09-11:46.1.252.122:used:2024-10-11
+charlie123:Spoofer:UrCrbdCHTzOp:2024-09-11:46.1.252.122:used:2024-10-11
+charlie123:Spoofer:tTsBHEuaDsIa:2024-09-11:46.1.252.122:used:2024-09-18
