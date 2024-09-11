@@ -1,2 +1,2 @@
-user1:password1:46.1.252.122:gratian:1000:https://cdn.discordapp.com/avatars/1136109217787432990/a_aafef0aab4a84063b427ffaedc90fc17.webp?size=80
-user2:password2:78.185.229.171:eggwick:275.00:https://cdn.discordapp.com/guilds/1265487293234413620/users/1144676716904730684/avatars/a_1044d7ea4efa529ce3679ed11fae0251.webp?size=128
+user1:password1:46.1.252.122:gratian:1000
+user2:password2:78.185.229.171:eggwick:275.00
