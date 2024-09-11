@@ -4,6 +4,6 @@ merhaba321:Spoofer:vOgfjFzxlD1H:2024-09-10:78.185.229.171:non-used:2024-09-11
 merhaba123:Spoofer:WO01jdajHKTL:2024-09-10:78.185.229.171:used:2024-09-11
 charlie123:Spoofer:bCpD9bfLSXD1:2024-09-11:46.1.252.122:non-used:2024-09-12
 charlie123:Spoofer:WuMutekgaUYD:2024-09-11:46.1.252.122:non-used:2024-09-12
-charlie123:Spoofer:DeG0AlIhS2RX:2024-09-11:46.1.252.122:used:2024-09-12
+charlie123:Spoofer:DeG0AlIhS2RX:2024-09-11:46.1.252.122:non-used:2024-09-12
 charlie123:Spoofer:wPHOO5Fvd3fW:2024-09-11:46.1.252.122:non-used:2024-09-12
 charlie123:Spoofer:cCW4P4M4SkxA:2024-09-11:46.1.252.122:non-used:2024-09-12
