@@ -1,3 +1,3 @@
-Ultimate:N/A:Connected:0:Closed
+Ultimate:N/A:Connected:0:Opened
 Plus:N/A:Connected:0:Opened
 UnlockAll:N/A:Connected:0:Opened
