@@ -1,2 +1,2 @@
 user1:password1:46.1.252.122:gratian:1000
-user2:password2:78.185.229.171:eggwick:440.00
+user2:password2:78.185.229.171:eggwick:430.00
