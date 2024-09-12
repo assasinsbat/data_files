@@ -12,4 +12,5 @@ eggwick:merhaba:18:07
 eggwick:wadawd:18:08
 eggwick:hey:18:12
 eggwick:awdawdwa:18:13
-eggwick:üffyaa:18:14
+eggwick:Ã¼ffyaa:18:14
+eggwick:test messace:18:16
