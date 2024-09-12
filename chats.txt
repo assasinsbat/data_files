@@ -9,3 +9,4 @@ eggwick:send you ltc adress:17:54
 gratian:kawi:19:55
 gratian:wp:19:57
 eggwick:merhaba:18:07
+eggwick:wadawd:18:08
