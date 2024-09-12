@@ -10,3 +10,4 @@ gratian:kawi:19:55
 gratian:wp:19:57
 eggwick:merhaba:18:07
 eggwick:wadawd:18:08
+eggwick:hey:18:12
