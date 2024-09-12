@@ -3,3 +3,4 @@ gratian:hi:22:03
 gratian:hi:22:03
 gratian:hulk:22:03
 eggwick:merhaba grat:20:04
+gratian:aynı:22:05
