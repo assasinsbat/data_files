@@ -3,5 +3,6 @@ gratian:hi:22:03
 gratian:hi:22:03
 gratian:hulk:22:03
 eggwick:merhaba grat:20:04
-gratian:aynÄ±:22:05
+gratian:aynÃÂ±:22:05
 gratian:canavar:22:05
+gratian:canavar:22:06
