@@ -7,3 +7,4 @@ gratian:afiyet olsun:20:50
 eggwick:Merhaba:21:01
 eggwick:selam:19:46
 eggwick:selamdd:19:46
+eggwick:selamddawda:19:46
