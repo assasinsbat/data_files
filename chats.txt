@@ -3,9 +3,10 @@ gratian:hi:22:03
 gratian:hi:22:03
 gratian:hulk:22:03
 eggwick:merhaba grat:20:04
-gratian:aynÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±:22:05
+gratian:aynÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±:22:05
 gratian:canavar:22:05
 gratian:canavar:22:06
 eggwick:1 saniye:20:06
 gratian:maydonoz:22:07
 gratian:maydonoz:22:08
+eggwick:2 saniye:20:08
