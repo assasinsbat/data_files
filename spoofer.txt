@@ -18,3 +18,4 @@ gratian:Spoofer:srkSEExWWVSR:2024-09-11:46.1.252.122:non-used:2024-09-12
 assassins:Spoofer:HyRHhGnOu1PA:2024-09-17:78.185.229.171:non-used:2024-10-17
 eggwick:Spoofer:dsErD1zF8JaA:2024-09-19:104.28.217.207:non-used:2024-10-19
 eggwick:Spoofer:fEdBaF5Awcl8:2024-09-19:104.28.217.207:non-used:2024-10-19
+eggwick:Spoofer:loTcWBXW8lUr:2024-09-19:104.28.217.207:non-used:2024-10-19
