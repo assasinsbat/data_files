@@ -3,4 +3,3 @@ eggwick|ddd|17:56
 eggwick|merhaba|19:50
 assassins|mehraba|19:52
 eggwick|send payment method || https://imgur.com/|Unable to fetch time
-eggwick|https://imgur.com/|Unable to fetch time
