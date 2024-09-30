@@ -1,1 +1,1 @@
-Ultimate:N/A:Connected:0:Closed
+Ultimate:N/A:Connected:0:Opened
