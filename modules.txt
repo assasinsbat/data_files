@@ -1,0 +1,4 @@
+static_find_object : 0x1981D30
+static_load_object : 0x1985860
+set_ares_outline : 0x3DF5E60
+bone_matrix : 0x3E61CF0
