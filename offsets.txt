@@ -19,6 +19,11 @@ error_power = 0x49C
 error_retries = 0x470
 OwningGameInstance = 0x1A0
 
+inventory = 0x09A8;
+equippable = 0x0248;
+mesh3pgun = 0x0F38;
+mesh1pgun = 0x0F48;
+
 bone_cout = 0x738
 real_time_dormant = 0x101
 
@@ -39,4 +44,5 @@ skin_pointer_3 = 0x80
 
 draw_transition = 99
 uworld_pointer = 0x80
+
 
