@@ -1,9 +1,9 @@
-fmemory_malloc = 0x156fe60
+fmemory_malloc = 0x156FE60
 static_find_object = 0x19C7490
 static_load_object = 0x19CAFC0
 
 play_finisher_effect = 0x5a68420
-set_ares_outline = 0x3e11810
+set_ares_outline = 0x3E11810
 bone_matrix = 0x3E7DC90
 
 get_spread_values = 0x5AE9CF0
@@ -44,6 +44,7 @@ skin_pointer_3 = 0x80
 
 draw_transition = 99
 uworld_pointer = 0x80
+
 
 
 
