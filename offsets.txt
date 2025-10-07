@@ -1,6 +1,6 @@
-------------
-J.A.R.V.I.S.
-------------
+------------------------
+      J.A.R.V.I.S.
+------------------------
 
 fmemory_malloc = 0x156FE60
 static_find_object = 0x19C7490
@@ -46,3 +46,4 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
