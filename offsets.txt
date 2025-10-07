@@ -1,3 +1,7 @@
+------------
+J.A.R.V.I.S.
+------------
+
 fmemory_malloc = 0x156FE60
 static_find_object = 0x19C7490
 static_load_object = 0x19CAFC0
@@ -33,7 +37,6 @@ mesh1p_overlay = 0x0F08
 mesh_cosmetic_3p = 0x0F10
 
 InventoryIcon = 0x0EB0
-
 wireframe_num = 0x8fe
 wireframe_num_1 = 0x0C0
 
@@ -41,19 +44,5 @@ skin_data_assets = 0x0DC8
 skin_pointer = 0x3a8
 skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
-
 draw_transition = 99
 uworld_pointer = 0x80
-
-
-
-
-
-
-
-
-
-
-
-
-
