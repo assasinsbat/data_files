@@ -31,10 +31,10 @@ mesh1pgun = 0x0F48;
 bone_cout = 0x738
 real_time_dormant = 0x101
 
-mesh3p_mids = 0xF58
-mesh1p = 0x0F00
-mesh1p_overlay = 0x0F08
-mesh_cosmetic_3p = 0x0F10
+mesh3p_mids = 0xf68
+mesh1p = 0xf10
+mesh1p_overlay = 0xf18
+mesh_cosmetic_3p = 0xf20
 
 InventoryIcon = 0x0EB0
 wireframe_num = 0x8fe
@@ -46,3 +46,4 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
