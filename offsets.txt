@@ -15,7 +15,7 @@ get_spread_angles = 0x66E0A20
 tovector_and_normalize = 0x167D8D0
 toangle_and_normalize = 0x16780D0
 
-firing_state_component = 0x11d0
+firing_state_component = 0x1200
 seed_data = 0x4A0
 stability_component = 0x490
 
@@ -46,4 +46,5 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
 
