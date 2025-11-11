@@ -2,18 +2,18 @@
       J.A.R.V.I.S.
 ------------------------
 
-fmemory_malloc = 0x1581310
-static_find_object = 0x19CBEC0
-static_load_object = 0x19CF9F0
+fmemory_malloc = 0x1588C40
+static_find_object = 0x19D42F0
+static_load_object = 0x19D7E20
 
-play_finisher_effect = 0x5B42E40
-set_ares_outline = 0x3E36840
-bone_matrix = 0x3EA23F0
+play_finisher_effect = 0x5AEF450
+set_ares_outline = 0x3E25F10
+bone_matrix = 0x3E919B0
 
-get_spread_values = 0x5BCFD10
-get_spread_angles = 0x66E0A20
-tovector_and_normalize = 0x167D8D0
-toangle_and_normalize = 0x16780D0
+get_spread_values = 0x5B795F0
+get_spread_angles = 0x667C580
+tovector_and_normalize = 0x1685070
+toangle_and_normalize = 0x167F870
 
 firing_state_component = 0x1200
 seed_data = 0x4A0
@@ -46,5 +46,6 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
 
 
