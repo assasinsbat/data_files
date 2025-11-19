@@ -36,7 +36,7 @@ mesh1p = 0xF08
 mesh1p_overlay = 0xF10
 mesh_cosmetic_3p = 0xF18
 
-InventoryIcon = 0x0EB0
+InventoryIcon = 0x0F30
 wireframe_num = 0x8fe
 wireframe_num_1 = 0x0C0
 
@@ -46,4 +46,5 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
 
