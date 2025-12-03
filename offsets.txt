@@ -39,12 +39,13 @@ wireframe_num_1 = 0x0C0
 defuse_percentage = 0
 bomb_time_remaining = 0
 
-skin_data_assets = 0x0DC8
+skin_data_assets = 0xf70
 skin_pointer = 0x3a8
 skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
 
 
 
