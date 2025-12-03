@@ -1,15 +1,15 @@
-fmemory_malloc = 0x1588C40
+fmemory_malloc = 0x15997A0
 static_find_object = 0x19EB5C0
 static_load_object = 0x19EF0F0
 
-play_finisher_effect = 0x5AEF450
-set_ares_outline = 0x3E25F10
-bone_matrix = 0x3E919B0
+play_finisher_effect = 0x5F986D0
+set_ares_outline = 0x3EC9F20
+bone_matrix = 0x3F365D0
 
-get_spread_values = 0x5B795F0
-get_spread_angles = 0x667C580
-tovector_and_normalize = 0x1685070
-toangle_and_normalize = 0x167F870
+get_spread_values = 0x6029670
+get_spread_angles = 0x6B6F6C0
+tovector_and_normalize = 0x1695DA0
+toangle_and_normalize = 0x16905A0
 
 firing_state_component = 0x1200
 seed_data = 0x4A0
@@ -45,6 +45,7 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
 
 
 
