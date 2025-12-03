@@ -1,6 +1,6 @@
 fmemory_malloc = 0x1588C40
-static_find_object = 0x19D42F0
-static_load_object = 0x19D7E20
+static_find_object = 0x19EB5C0
+static_load_object = 0x19EF0F0
 
 play_finisher_effect = 0x5AEF450
 set_ares_outline = 0x3E25F10
@@ -27,9 +27,9 @@ mesh1pgun = 0x0F48;
 bone_cout = 0x738
 real_time_dormant = 0x101
 
-mesh3p_mids = 0xF60
-mesh1p = 0xF08
-mesh1p_overlay = 0xF10
+mesh3p_mids = 0xf40
+mesh1p = 0xee8
+mesh1p_overlay = 0xef0
 mesh_cosmetic_3p = 0xF18
 
 InventoryIcon = 0x0F30
@@ -45,6 +45,7 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
 
 
 
