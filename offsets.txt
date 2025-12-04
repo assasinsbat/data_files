@@ -30,7 +30,7 @@ real_time_dormant = 0x101
 mesh3p_mids = 0xf40
 mesh1p = 0xee8
 mesh1p_overlay = 0xef0
-mesh_cosmetic_3p = 0xF18
+mesh_cosmetic_3p = 0x0F10
 
 InventoryIcon = 0x0F30
 wireframe_num = 0x8fe
@@ -45,6 +45,7 @@ skin_pointer_2 = 0xB0
 skin_pointer_3 = 0x80
 draw_transition = 99
 uworld_pointer = 0x80
+
 
 
 
